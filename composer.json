@@ -1,8 +1,8 @@
 {
-    "name": "zyberspace/telegram-cli-client",
+    "name": "dreamgit/telegram-cli-client",
     "description": "php-client for telegram-cli",
     "type": "library",
-    "homepage": "https://github.com/zyberspace/php-telegram-cli-client",
+    "homepage": "https://github.com/dreamgit/php-telegram-cli-client",
     "license": "MPL-2.0",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0,<6.0.0"
+        "php": ">=5.3.0"
     },
     "require-dev": {
         "zyberspace/discovery-shell": "dev-master"
