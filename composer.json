@@ -20,5 +20,10 @@
         "psr-0": {
             "Zyberspace\\Telegram\\Cli\\": "lib/"
         }
+    },
+    "config": {
+    "platform": {
+        "php": "5.5.1"
     }
+}
 }
